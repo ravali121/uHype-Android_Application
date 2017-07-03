@@ -20,8 +20,8 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText editTxtEmail, editTextPwd;
-    Button btnLogin, btnCrtAcc;
+    EditText editTextEmail, editTextPassword;
+    Button buttonLogin, buttonCreateAccount;
     String emailtxt, passwordtxt;
     String login_url = "http://10.0.0.50:3000/signUp";
 
@@ -30,13 +30,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        editTxtEmail = (EditText)findViewById(R.id.editTxtEmail);
-        editTextPwd = (EditText)findViewById(R.id.editTextPwd);
-        btnLogin = (Button)findViewById(R.id.btnLogin);
-        btnCrtAcc = (Button)findViewById(R.id.btnCrtAcc);
+        editTextEmail = (EditText)findViewById(R.id.editTextEmail);
+        editTextPassword = (EditText)findViewById(R.id.editTextPassword);
+        buttonLogin = (Button)findViewById(R.id.buttonLogin);
+        buttonCreateAccount = (Button)findViewById(R.id.buttonCreateAccount);
 
 
-        btnCrtAcc.setOnClickListener(new View.OnClickListener(){
+        buttonCreateAccount.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view) {
                 Intent regactivity = new Intent(MainActivity.this, SignupActivity.class);
@@ -45,19 +45,19 @@ public class MainActivity extends AppCompatActivity {
             }
         }); // Create Account Action End
 
-        btnLogin.setOnClickListener(new View.OnClickListener(){
+        buttonLogin.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view){
 
-               /* emailtxt = editTxtEmail.getText().toString();
-                passwordtxt = editTextPwd.getText().toString();
+                emailtxt = editTextEmail.getText().toString();
+                passwordtxt = editTextPassword.getText().toString();
                 //POST Parameters
                 Map<String,String> params = new HashMap<String, String>();
                 params.put("email",emailtxt);
                 params.put("password",passwordtxt);
                 //Request a JSON response from the login_url
                 JSONObject userDetails = new JSONObject(params);
-                Log.d("UserLoginInfo",userDetails.toString()); */
+                Log.d("UserLoginInfo",userDetails.toString());
                 ConnectToServer();
 
             }
@@ -65,8 +65,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void ConnectToServer(){
-        emailtxt = editTxtEmail.getText().toString();
-        passwordtxt = editTextPwd.getText().toString();
+        emailtxt = editTextEmail.getText().toString();
+        passwordtxt = editTextPassword.getText().toString();
         //POST Parameters
         Map<String,String> params = new HashMap<String, String>();
         params.put("email",emailtxt);

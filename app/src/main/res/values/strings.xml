@@ -12,7 +12,7 @@
     <string name="first_name">first name</string>
     <string name="last_name">last name</string>
     <string name="class_of">Class of:</string>
-
+<string name="facebook_app_id">118267422119203</string>
     <style name="grad_yr">Graduation Year</style>
 
 </resources>

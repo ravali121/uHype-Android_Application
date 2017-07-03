@@ -3,48 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Student/.android/build-cache/ad9c4d1c2fc89e3d7e590065105bbb07359af15d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0ae4b494a4dfff050bc073611120f277b78aa11/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="f18ba65d05bfbaf2fd61e00a3e9c0f81a4c1e13e">
+        sha1="7d9783c123d4ae663c2ec58009030332f9794822">
         <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dc93f96e082d5a62b70eb4d32983b4cf44f93241/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/.android/build-cache/2370315b7d15e1e585186717636ef05e0bb340f2/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_983655154caa581ab95adb1ff816b5a0fbf7029a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_7ca9c0d03e6af1c8f8125b2038e7d9dd513338ca/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/.android/build-cache/c3e6952846f18d2724e7f9f468cccca4114f7852/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85a1d3efcbaa91c1c3dc0b70f63539936c512d58/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -54,87 +18,6 @@
         revision="26.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_94519c53f318d757da70236151bbb8dc200c6738/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/.android/build-cache/282183248a6f6b443a213bbb8bab10ffb6ffc756/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3104582b6a2c89a07c673f8b42afbc1dbae303f5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/.android/build-cache/9b0cec64c585e43668a2787730155defe3592f83/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f660aae8d48ac67746aa67a1939da8133c9a652b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/.android/build-cache/e6ce3a9a1ce4e268d245263bc071d36329533a6c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb1319811c5f4a051e7793f8464cf6d898a1302b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_c45bce191a869904eb913a3f8cd8c52744d78a93/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/.android/build-cache/71e4197d423b978e4ae7633c95c8d27b0d27e864/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0362bbfe8252200bb8a79417ca319c5beef97390/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_c34e3f7208255ee6ddfe4e25c5480e4aaa7eb915/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/.android/build-cache/d1ce04b466ffb820aca92ae72182e372ccf5c957/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b91140ee776cb34033942be415854ce39e4a10b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/.android/build-cache/e7fd056b0ff91b621cf86f0d366e622fe8bdc0a6/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3434b6883de91ff14fd200145f371d6c5d835d01/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Student/.android/build-cache/92721ac89acc6cbfbd284ffdaed264c722fb1a9f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/Users/Student/Downloads/Piyush/uHype/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d6c8319cb7cbe2b0848eca9a69877198cc6bb03/classes.dex" />
     </item>
 
 </items>
