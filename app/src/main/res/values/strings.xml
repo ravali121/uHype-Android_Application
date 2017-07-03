@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OOlie</string>
+    <string name="app_welcome_note">Welcome to OOlie</string>
+    <string name="email_hint">email address</string>
+    <string name="pwd_hint">password</string>
+    <string name="login_btn">Login</string>
+    <string name="create_acc_btn">Create Account</string>
+    <string name="forgot_pwd">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_back">Back</string>
+    <string name="user_name">username</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="class_of">Class of:</string>
+
+    <style name="grad_yr">Graduation Year</style>
+
+</resources>
