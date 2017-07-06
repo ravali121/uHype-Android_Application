@@ -12,11 +12,29 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\8cdc893e3ae8b078a0feed5873dd51171be71a4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Oolie\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87df5cbc288042d7815826a17ac2bf204d5c486d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Oolie\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_ad1ca00f7052597b8e41341b8888de9bf0d8df80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\admin\AndroidStudioProjects\Oolie\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="84d19462fa7d4115675a68185455495a93581d98">
+        sha1="5d19256cf96ed6b0fc68bb0c5a830cad81f99ce4">
         <dex dex="C:\Users\admin\AndroidStudioProjects\Oolie\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_624b42f372eb407a2332b49fee9135656e43f030\classes.dex" />
     </item>
     <item
@@ -36,6 +54,24 @@
         revision="26.0.0"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
         <dex dex="C:\Users\admin\AndroidStudioProjects\Oolie\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f933d4e67ded6cf89cfa1943934b956b044ad83b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Oolie\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_f2f3e4097c997d33921ea4a923e1e4387b8330c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\61adf78819c1019cd0765988896c8134d84e5b13\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0e0e8918eb74e3ee9e82eef6430a4359b2b577d3">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Oolie\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5392ccb97465ca2e0e224166fa3a36d91837f5e4\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -126,6 +162,15 @@
         revision="26.0.0"
         sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
         <dex dex="C:\Users\admin\AndroidStudioProjects\Oolie\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9d5ae24a972b53ec6b6f597aa5cb7d4abc8ebd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\b9ef47fab1db0f6ac23d1a4e4a180c784133b92b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\admin\AndroidStudioProjects\Oolie\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88b0ede217c7ad65866308c0d08069e850d769a9\classes.dex" />
     </item>
     <item
         is-multidex="true"
